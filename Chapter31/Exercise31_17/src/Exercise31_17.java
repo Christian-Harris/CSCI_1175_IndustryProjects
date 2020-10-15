@@ -22,7 +22,7 @@ public class Exercise31_17 extends Application{
 		int LabelHeight = 24;
 		GridPane pane = new GridPane();
 		
-		Label amountLabel = new Label("Annual Interest Rate:");
+		Label amountLabel = new Label("Investment Amount:");
 		
 		TextField amountField = new TextField();
 		
